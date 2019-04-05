@@ -1,0 +1,9 @@
+Requirements:
+
+1)- Pandas
+2)- Numpy
+3)- Scikit learn
+4)- python 3.5
+5)- tensorflow
+6)- Keras with tensorflow backend
+7)- Matplotlib

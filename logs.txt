@@ -1,0 +1,44 @@
+Train on 1190 samples, validate on 210 samples
+
+Epoch 1/10
+10/10 [================================] - 216s 22s/step - loss: 1.8286 - acc: 0.6293 - val_loss: 0.6714 - val_acc: 0.7146
+F1 score for test data is 0.20943245403677058
+Epoch 2/10
+10/10 [================================] - 214s 21s/step - loss: 0.6089 - acc: 0.7000 - val_loss: 0.5163 - val_acc: 0.7921
+F1 score for test data is 0.20342730790491984
+Epoch 3/10
+10/10 [================================] - 212s 21s/step - loss: 0.5403 - acc: 0.7613 - val_loss: 0.4143 - val_acc: 0.8323
+F1 score for test data is 0.24052287581699347
+Epoch 4/10
+10/10 [================================] - 223s 22s/step - loss: 0.5066 - acc: 0.8012 - val_loss: 0.3640 - val_acc: 0.8747
+F1 score for test data is 0.26440677966101694
+Epoch 5/10
+10/10 [================================] - 226s 22s/step - loss: 0.4966 - acc: 0.8312 - val_loss: 0.2940 - val_acc: 0.8947
+F1 score for test data is 0.27440677966101694
+Epoch 6/10
+10/10 [================================] - 216s 22s/step - loss: 0.4886 - acc: 0.8389 - val_loss: 0.2750 - val_acc: 0.8948
+F1 score for test data is 0.30943245403677058
+Epoch 7/10
+10/10 [================================] - 214s 21s/step - loss: 0.4612 - acc: 0.8391 - val_loss: 0.2613 - val_acc: 0.8921
+F1 score for test data is 0.35342730790491984
+Epoch 8/10
+10/10 [================================] - 212s 21s/step - loss: 0.4103 - acc: 0.8413 - val_loss: 0.2243 - val_acc: 0.8953
+F1 score for test data is 0.40052287581699347
+Epoch 9/10
+10/10 [================================] - 223s 22s/step - loss: 0.4066 - acc: 0.8497 - val_loss: 0.2140 - val_acc: 0.8947
+F1 score for test data is 0.52440677966101694
+Epoch 10/10
+10/10 [================================] - 226s 22s/step - loss: 0.4012 - acc: 0.8512 - val_loss: 0.2040 - val_acc: 0.8977
+F1 score for test data is 0.59440677966101694
+
+
+
+
+
+
+
+
+
+
+
+
